@@ -15,7 +15,7 @@ The purpose of this project is to visually show the earthquake data in relation 
 
 ![Screen Shot 2022-06-30 at 2 32 43 PM (2)](https://user-images.githubusercontent.com/102264298/176763840-c9ec4372-d9c8-4c6f-b236-1eeaaa55b592.png)
 
-### Adding a Third Map Style -- Navigation Night.  
+### Add a Third Map Style -- Navigation Night.  
 
 ![navinight](https://user-images.githubusercontent.com/102264298/176766923-4eb9db01-dc3d-4f00-8ebf-216d6821d366.png)
 
